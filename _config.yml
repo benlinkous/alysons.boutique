@@ -1,1 +1,7 @@
-title: Alysons.boutique\ndescription: Boutique storefront and local collaboration\n
+title: Alysons.boutique
+description: Boutique storefront and NRV vendor collaboration
+theme: minima
+
+header_pages:
+  - index.md
+  - vendors.md
